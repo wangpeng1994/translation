@@ -57,7 +57,7 @@ __ met with __
 __ today.
 ```
 
-# Internet Explorer 8, Firefox 3.5, Safari 4, and Chrome 2 is permitted to download JavaScript files in parallel. This good news indicate that there is not necessary block other <script> Tags while a <script> is downloading external resources(This is good news because the <script> tags don't necessarily block other <script> tags from downloading external resources.). Unfortunately, JavaScripts downloading still block downloading of other resources， such as images. (And even) Though downloading a script doesn't block other scripts from downloading, The page must still wait for the JavaScript code to be downloaded and executed before continuing. So while the latest browsers have improved performance by allowing parallel downloads. This issue is not fully resolved yet(The problem hasn't been completely solved.). Script blocking is still an issue(Script blocking still remains a problem).
+# Internet Explorer 8, Firefox 3.5, Safari 4, and Chrome 2 is permitted to download JavaScript files in parallel. This good news indicate that there is not necessary block other <script> Tags while a <script> is downloading external resources(This is good news because the <script> tags don't necessarily block other <script> tags from downloading external resources.). Unfortunately, JavaScripts downloading still block downloading of other resources， such as images. (And even) Though downloading a script doesn't block other scripts from downloading, The page must still wait for the JavaScript code to be downloaded and executed before continuing. So while the latest browsers have improved performance by allowing parallel downloads. This issue is not fully resolved yet(The problem hasn't been completely solved.). Script blocking still remains a problem.
 
 ```
 parallel download 并行下载
@@ -65,3 +65,29 @@ Script blocking 脚本阻塞
 solve VS resolve 前者用于解决难题 后者用于解决矛盾，或者大难题，强调的是问题严重性
 still 一般用作副词，修饰动词，所以前面没有 is
 ```
+
+# Because scripts block downloading of all resource types on the page, it's recommended to place all <script> tags as close to the bottom of the <body> tag as possible so as not to affect the download of the entire page.
+
+
+For example:
+
+```
+all VS all of 前者用于一般名词，后者用于代词
+so as 所以
+affect 影响, is usually a verb
+effect 影响, is usually a noun
+```
+
+<html>
+<head>
+  <title>Script Example</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <p>Hello world!</p>
+  <-- Example of recommended script positioning -->
+  <script type="text/javascript" src="file1.js"></script>
+  <script type="text/javascript" src="file2.js"></script>
+<script type="text/javascript" src="file3.js"></script>
+</body>
+</html>
