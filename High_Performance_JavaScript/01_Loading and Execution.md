@@ -91,3 +91,22 @@ effect 影响, is usually a noun
 <script type="text/javascript" src="file3.js"></script>
 </body>
 </html>
+
+# This code represents the recommended position for <script> tags in an HTML page. Even though the script downloads will block one another, but the rest of the page has already been downloaded and displayed to the user so that the speed of enter the page will not looks so slowly(so that the entire page isn't perceived as slow). This exactly is the first rule about JavaScript by 'Yahoo' performance optimization group(This is the Yahoo! Exceptional Performance team's first rule about JavaScript:): place(put) scripts at the bottom.
+
+
+```
+even though VS though
+  1. even though 等于 even if “即使”，表达退一步设想，引导的句子不一定是事实
+  2. though “虽然”，引导的句子是事实
+  3. although较正式，语气强；though较常用。现代英语中两者可随意换用，放前中后都行
+
+entire VS whole VS all
+  1. 有时这两个词大致同义，只是位置不同：all 要放在冠词、指示代词、物主代词等之前，而 whole 应放在这些词之后
+  2. all 指一个不剩，即“全部”；whole 指一点不缺，即“整个”
+  3. entire 是 adj，whole 是n+adj+adv
+  4. 在复数名词和不可数名词前一般用 all，在单数可数名词前一般用 whole
+  5. 在物质名词前则绝对不用 whole
+
+perceived 被感知
+```
