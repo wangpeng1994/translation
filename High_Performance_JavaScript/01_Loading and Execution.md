@@ -15,7 +15,7 @@
 </body>
 </html>
 
-# When the browser encounters a <script> tag, just as HTML page above, there is no way of knowing whether the JavaScript will insert content into the <p> tag. Therefore, the browser stops processing the page as it comes in, executes the JavaScript code, then continues parsing and rendering the page. The same takes place for JavaScript loaded using the 'src' attribute loading JavaScript. The browser have to first download the external file's code(The browser must first download the code from the external file), which takes some time, and then parse and execute the code. During this process, page rendering and user interaction are completely blocked.
+# When the browser encounters a <script> tag, just as HTML page above, there is no way of knowing whether the JavaScript will insert content into the <p> tag. Therefore, the browser stops processing the page as it comes in, executes the JavaScript code, then continues parsing and rendering the page. The same takes place for JavaScript loaded using the "src" attribute loading JavaScript. The browser have to first download the external file's code(The browser must first download the code from the external file), which takes some time, and then parse and execute the code. During this process, page rendering and user interaction are completely blocked.
 
 # Script Positioning
 
@@ -57,12 +57,12 @@ __ met with __
 __ today.
 ```
 
-# Internet Explorer 8, Firefox 3.5, Safari 4, and Chrome 2 is permitted to download JavaScript files in parallel. This good news indicate that there is not necessary block other <script> Tags while a <script> is downloading external resources(This is good news because the <script> tags don't necessarily block other <script> tags from downloading external resources.). Unfortunately, JavaScripts downloading still block downloading of other resources， such as images. (And even) Though downloading a script doesn't block other scripts from downloading, The page must still wait for the JavaScript code to be downloaded and executed before continuing. So while the latest browsers have improved performance by allowing parallel downloads. This issue is not fully resolved yet(The problem hasn't been completely solved.). Script blocking still remains a problem.
+# Internet Explorer 8, Firefox 3.5, Safari 4, and Chrome 2 is permitted to download JavaScript files in parallel. This good news indicate that there is not necessary block other <script> Tags while a <script> is downloading external resources(This is good news because the <script> tags don't necessarily block other <script> tags from downloading external resources.). Unfortunately, JavaScripts downloading still block downloading of other resources， such as images. (And even) Though downloading a script doesn't block other scripts from downloading, The page must still wait for the JavaScript code to be downloaded and executed before continuing. So while the latest browsers have improved performance by allowing parallel downloads. This issue is not fully resolved yet(The problem hasn't been completely solved). Script blocking still remains a problem.
 
 ```
 parallel download 并行下载
 Script blocking 脚本阻塞
-solve VS resolve 前者用于解决难题 后者用于解决矛盾，或者大难题，强调的是问题严重性
+solve vs resolve 前者用于解决难题 后者用于解决矛盾，或者大难题，强调的是问题严重性
 still 一般用作副词，修饰动词，所以前面没有 is
 ```
 
@@ -72,7 +72,7 @@ still 一般用作副词，修饰动词，所以前面没有 is
 For example:
 
 ```
-all VS all of 前者用于一般名词，后者用于代词
+all vs all of 两者都能用于一般名词，而代词只能用后者
 so as 所以
 affect 影响, is usually a verb
 effect 影响, is usually a noun
@@ -96,12 +96,12 @@ effect 影响, is usually a noun
 
 
 ```
-even though VS though
+even though vs though
   1. even though 等于 even if “即使”，表达退一步设想，引导的句子不一定是事实
   2. though “虽然”，引导的句子是事实
   3. although较正式，语气强；though较常用。现代英语中两者可随意换用，放前中后都行
 
-entire VS whole VS all
+entire vs whole vs all
   1. 有时这两个词大致同义，只是位置不同：all 要放在冠词、指示代词、物主代词等之前，而 whole 应放在这些词之后
   2. all 指一个不剩，即“全部”；whole 指一点不缺，即“整个”
   3. entire 是 adj，whole 是n+adj+adv
@@ -110,3 +110,25 @@ entire VS whole VS all
 
 perceived 被感知
 ```
+
+# Grouping Scripts
+
+# Since each <script> tag blocks the page from rendering during initial download, it's helpful to limit the total number of <script> tags (contained) in the page. This rule is suitable for(This applies to) both inline scripts and outer scripts(as well as those in external files). Whenever the page rendering encounters a <script> tag(Every time a <script> tag is encounterd during the parsing of an HTML page), there is going to be a delay while the code is executed. minimizing these delays improves the overall performance of the page.
+
+```
+each vs every
+  1. each 用于离散地引用一个组中的每一项，而当我们将一个组的所有成员都作为一个整体来处理时，我们使用 every
+  2. each 在我们谈论规模较小的群体中使用，而当群体相对较大时，我们使用 every
+
+as well as vs and
+  2. 很多时候和 and 相近，但 as well as 包含了“又”的含义
+  1. as well as ≈ not only...but also，但 as well as 侧重前者，not only...but also 侧重后者
+
+is going to vs will
+  1. 功能基本一样，表示将来时态
+  2. 前者蕴含心中有数，提前就有打算
+  3. 前者表示即将发生的动作，后者表示将来，不一定是近期
+
+overall 整体的，仅用于名词前
+```
+
