@@ -132,3 +132,11 @@ is going to vs will
 overall 整体的，仅用于名词前
 ```
 
+# This problem is slightly different when dealing with external JavaScript files. Each HTTP request brings with it additional performance overhead, so downloading one 100KB file will be fast than downloading four 25KB files. In a word(To that end), it's helpful to limit the number of external script files that your page references. Typically, a large website or web application needs to request JavaScript files more than once(will have several requested JavaScript files). You can combine these files as a file, just need a <script> tag, performance losses can be reduced(You can minimize the performance impact by concatenating these files together into a single file and then calling that single file with a single <script> tag). The concatenation can happen offline using a build tool(we'll discuss in Chapter 9(discussed in Chapter 9)), or in real-time using a tool such as Yahoo! combo handler.
+
+```
+bring with 带来
+overhead vs burden
+To that end 为了那个目的
+concatenate 连接，连结
+```
