@@ -136,7 +136,17 @@ overall 整体的，仅用于名词前
 
 ```
 bring with 带来
-overhead vs burden
 To that end 为了那个目的
 concatenate 连接，连结
+```
+
+# This URL loads 2.7.0 versions of the yahoo-min.js and event-min.js files. These files are two separated files on the server(These files exist separately on the server) but are combined when the server received this URL request(when this URL is requested). By this way, instead of using two <script> tags(one to load each file), a single <script> tag can be used to load both. 
+
+# This code has a single <script> tag at the bottom of the page that loads multiple JavaScript files. This is() the best practice for including external JavaScript on an HTML page.
+
+```
+to vs for
+  1. to 强调对象关系，for 强调目的关系
+  2. to 可表示动作对象，for 表示为了
+  3. to 后面加名词更多，for 后面加名词更多
 ```
