@@ -142,11 +142,28 @@ concatenate 连接，连结
 
 # This URL loads 2.7.0 versions of the yahoo-min.js and event-min.js files. These files are two separated files on the server(These files exist separately on the server) but are combined when the server received this URL request(when this URL is requested). By this way, instead of using two <script> tags(one to load each file), a single <script> tag can be used to load both. 
 
-# This code has a single <script> tag at the bottom of the page that loads multiple JavaScript files. This is() the best practice for including external JavaScript on an HTML page.
+# This code has a single <script> tag at the bottom of the page that loads multiple JavaScript files. This is the best practice for including external JavaScript on an HTML page.
 
 ```
 to vs for
   1. to 强调对象关系，for 强调目的关系
   2. to 可表示动作对象，for 表示为了
-  3. to 后面加名词更多，for 后面加名词更多
+  3. to 后面加动词更多，for 后面加名词更多
+```
+
+# Nonblocking Scripts
+
+# JavaScript's tandency to block browser processes, both HTTP requests and UI updates, is the most notable performance issue facing developers. Keeping JavaScript files small and limiting the number of HTTP requests are only the first steps in creating a responsive Web application. The richer the functionality an application requires, the more JavaScript code is required, and so keeping source code small is not always a choice(an option). Limiting yourself to downloading a single large JavaScript file will only result in locking the browser out for a long period of time, despite it being just one HTTP request. To get around this situation, You need to gradually(incrementally) add more JavaScript to the page in a way doesn't bolck the browser.
+
+```
+tendency to 倾向于
+notable 显著的
+responsive 及时响应的
+functionality 功能（性）
+result in 导致
+a long period of time 很长一段时间
+get around this situation 摆脱这种困境
+incrementally vs gradually
+  递增的 vs 逐渐的
+in a way that 以一种...的方式
 ```
