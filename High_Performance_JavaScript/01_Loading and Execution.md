@@ -1,4 +1,13 @@
+<Chapter 1: Loading and Execution>
+
 # JavaScript performance in the browser can be seen as the most important usability issue facing developers. The problem is complex because of the blocking nature of JavaScript, which is to say that other things cannot be handle by browser while JavaScript code is running(being executed). Actually(In fact), most browsers uses a single process for both UI updates and JavaScript execution, so only one can happen at any given moment in time. The longer JavaScript takes to execute, the longer it takes before the browser is free to response to user input.
+
+```
+usability issue 可用性问题
+
+complex vs complicated
+  complex 指系统中组件级别的复杂，complicated 指难以解决或难以理解的复杂
+```
 
 # On a basic level, this means that presence of a <script> tag is enough to make the page wait for the script to be parsed and executed. Whether actual JavScript code is inline or included in an (unrelated) erternal file is irrelevant, the page download and rendering must stop and wait for the script to complete before proceeding. This is a necessary part of the page's lify cycle because the script may cause changes to the page content while executing. The typical case is the document.write() function, for example:
 
@@ -167,3 +176,6 @@ incrementally vs gradually
   递增的 vs 逐渐的
 in a way that 以一种...的方式
 ```
+
+
+<Chapter 2: Loading and Execution>
