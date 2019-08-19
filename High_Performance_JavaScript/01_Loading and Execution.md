@@ -178,4 +178,17 @@ in a way that 以一种...的方式
 ```
 
 
-<Chapter 2: Loading and Execution>
+<Chapter 2: Data Access>
+
+# One of the classic computer science problems is determining where data should be stored for optimal reading and writing. Where data is stored is related to how quickly it can be retrieved during code execution. This problem in JavaScript is somewhat simplified because of the small number of options for data storage. Similar to other languages, though, where data is stored can greatly affect how quickly it can be accessed later. there are four basic places from which data can be accessed in JavaScript:
+
+```
+optimal reading and writing 最佳的读写（效率）
+retrieved 重新取回
+somewhat simplified 有点（被）简化了的
+similar to 与...相似
+
+while vs as
+  1. while 后面接延续性行为，这个行为一般比主语长
+  2. as 意为 一边...一边，与...同时，重在表示动作同时发生、伴随进行
+```
