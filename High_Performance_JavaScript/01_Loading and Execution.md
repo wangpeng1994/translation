@@ -192,3 +192,17 @@ while vs as
   1. while 后面接延续性行为，这个行为一般比主语长
   2. as 意为 一边...一边，与...同时，重在表示动作同时发生、伴随进行
 ```
+
+# Literal values
+# Any value that merely represents just itself and isn't stored in a particular location. JavaScript literals include: strings, numbers, Booleans, objects, arrays, functions, regular expressions, and the special values null and undefined as literals.
+
+```
+particular vs special
+前者强调与众不同的特殊性，后者强调主观上特定的某一个，其自身本质未必很特殊
+
+place vs location vs position
+  # https://zhidao.baidu.com/question/542551769.html
+  1. place 含义广泛，最普通用词，所指地点可小可大
+  2. location 指某物设置的方向或地点
+  3. position 多指物体相对于其他物体所处的位置或状态
+```
