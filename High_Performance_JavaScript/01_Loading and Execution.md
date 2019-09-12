@@ -206,3 +206,14 @@ place vs location vs position
   2. location 指某物设置的方向或地点
   3. position 多指物体相对于其他物体所处的位置或状态
 ```
+
+# Variables
+# Any developers-defined location for storing data created by using the var keyword.
+
+# Array items
+# A numerically indexed location within a JavaScript Array object.
+
+# Object members
+# A strin-indexed location within a JavaScript object.
+
+# Each data storage location has special reading and writing afford. In most cases, performance difference between access a literal and a location variable is tiny. The cost of Access array items and object mumbers will higher, How much higher is depend on the browsers. Figure 2-1 showing the time spent in operating these four data types 200,000 times in various browsers.
