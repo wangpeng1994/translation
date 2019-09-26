@@ -217,3 +217,25 @@ place vs location vs position
 # A strin-indexed location within a JavaScript object.
 
 # Each data storage location has special reading and writing afford. In most cases, performance difference between access a literal and a location variable is tiny. The cost of Access array items and object mumbers will higher, How much higher is depend on the browsers. Figure 2-1 showing the time spent in operating these four data types 200,000 times in various browsers.
+
+
+---
+
+# 之前的做法有些慢，现在只记录个人认为值得记录的用词用法。
+
+
+go all the way through 遍历
+
+simplistic 过分简单化的
+
+a huge performance improvement 巨大的性能改进
+
+impressive performance improvements 出色的性能改进
+
+dozens of 几十
+
+being accessed repeatedly 被反复访问
+
+temporarily augment 临时增加...
+
+as follows 如下所示， 比 as the following 更合适
