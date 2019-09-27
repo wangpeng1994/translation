@@ -238,4 +238,14 @@ being accessed repeatedly 被反复访问
 
 temporarily augment 临时增加...
 
+
 as follows 如下所示， 比 as the following 更合适
+
+# 42
+
+pushed to 被推向
+
+For this reason, 正因为这个原因
+
+As shown previously, 正如前面提到的，As mentioned before(above),
+
