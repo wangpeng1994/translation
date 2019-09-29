@@ -241,11 +241,38 @@ temporarily augment 临时增加...
 
 as follows 如下所示， 比 as the following 更合适
 
-# 42
 
-pushed to 被推向
+# 2019-09-27
+
+pushed to 被推向；pushed into 被推入
 
 For this reason, 正因为这个原因
 
 As shown previously, 正如前面提到的，As mentioned before(above),
 
+
+# 2019-09-29
+
+...clause ...的子句
+
+inside of 在...之内
+
+appropriately 适当地
+
+do plan on 计划...
+
+likelihood 可能性
+
+solution 解决办法
+
+occur 发生（错误等）
+
+then 那么
+
+indicate 表明，说明
+
+minimize 使最小化，减小
+
+performance impact (n.) 性能影响
+
+delegate to 委托给
