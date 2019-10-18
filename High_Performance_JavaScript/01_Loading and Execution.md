@@ -248,3 +248,14 @@ lookup (n.) 查找
 hash-based 基于散列的 基于哈希的
 
 closely mirrors (v.) 密切反映 类似
+
+
+# 2019-10-18
+
+has been popularized 已经流行普及
+
+ubiquitous 无处不在的
+
+an activation object 一个激活对象
+
+among other things, 除了其他方面
