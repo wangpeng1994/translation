@@ -259,3 +259,14 @@ ubiquitous 无处不在的
 an activation object 一个激活对象
 
 among other things, 除了其他方面
+
+
+# 2019-10-19
+
+side effect 副作用
+
+as 以...的方式
+
+nonnative 非本地
+
+performance penalty 性能损失
