@@ -276,14 +276,41 @@ performance penalty 性能损失
 
 exercise caution (v.) 谨慎小心
 
-advice vs suggestion vs with vs via
-  1. 价值不同：advice 更有指导意义和价值；uggestion 不太靠谱，只是斗胆发表了未必成熟的想法
+advice vs suggestion
+  1. 价值不同：advice 更有指导意义和价值；suggestion 不太靠谱，只是斗胆发表了未必成熟的想法
   2. 针对的对象不同：advice 针对某一行动提出的；suggestion 针对某一问题，尤其为解决困难或改进工作提出的
+
+by vs through vs with vs via
+  1. by 侧重通过某种方式；through 侧重穿过、通过
+  2. by 通常直接介绍发生作用或影响的动因；through 介绍的对象则比较间接
   3. with 通常与无生命的物体一起使用，指具体工具、手段或媒介
   4. via 经由、通过、凭借、借助于，指侧重通过某种媒介达到目的
 
-by vs through
-  1. by 侧重通过某种方式；through 侧重穿过、通过
-  2. by 通常直接介绍发生作用或影响的动因；through 介绍的对象则比较简介
 
 frequently used 常用的
+
+# 2019-11-11
+
+As such, 因此
+
+Since 因为
+
+in addition to 除...之外
+
+reference n. v. 引用
+
+considered 被认为是...
+
+whereas 然而，鉴于，但是，反之
+
+literal 字面量，直接量
+
+# 2019-11-15
+
+tied to 把...绑定到
+
+expose 开放，暴露
+
+internal 内部的
+
+build-in 内置的
