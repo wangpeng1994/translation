@@ -314,3 +314,9 @@ expose 开放，暴露
 internal 内部的
 
 build-in 内置的
+
+# 2019-11-25 (2-9)
+
+relation vs relationship
+  1. 前者较不带感情，事实性的“关系”
+  2. 后者主要形容人与人（或者拟人）之间的亲密关系
