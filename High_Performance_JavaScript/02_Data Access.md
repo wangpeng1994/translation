@@ -215,3 +215,21 @@ overhead n. 开销
 travese v. 遍历
 
 amplify v. 放大，扩大，增强
+
+
+# 2019-11-29
+
+contain vs include
+  1. 包含 vs 包括
+  1. contain 强调容量，侧重内有，多用于客观事物，如容器有什么，什么东西有什么成分
+  2. include 强调范围，所含之物一般是主语的同类，是同种事物之间的包含
+
+to be more accurate 更精确地（说）
+
+clearly 明显地
+
+course 过程
+
+yet ... 但仍然
+
+eliminate v. 消除
