@@ -233,3 +233,10 @@ course 过程
 yet ... 但仍然
 
 eliminate v. 消除
+
+
+# 2019--12-02
+
+in place of 代替
+
+dramatic 剧烈的，引人注目的
