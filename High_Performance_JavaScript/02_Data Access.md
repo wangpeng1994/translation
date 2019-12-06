@@ -240,3 +240,14 @@ eliminate v. 消除
 in place of 代替
 
 dramatic 剧烈的，引人注目的
+
+
+# 2019-12-05
+
+measurable impact 可测量的、重大的影响
+
+overall 整体的
+
+grealy 极大地
+
+perceived performance
