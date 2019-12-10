@@ -25,3 +25,10 @@ toll fee 通行费
 naturally adv. 自然而然地
 
 loop iteration n. 循环迭代
+
+
+# 2019-12-10
+
+general rule of thumb n. 一般的经验法则
+
+as much as possible 尽量，尽可能
