@@ -32,3 +32,8 @@ loop iteration n. 循环迭代
 general rule of thumb n. 一般的经验法则
 
 as much as possible 尽量，尽可能
+
+
+# 2019-12-12
+
+increasingly less 越来越少
