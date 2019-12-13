@@ -37,3 +37,16 @@ as much as possible 尽量，尽可能
 # 2019-12-12
 
 increasingly less 越来越少
+
+
+# 2019-12-13
+
+verbose 冗长啰嗦的
+
+as compared to 相对于... 同...相比
+
+pronounced 显著的
+
+opposite adj. 相反的，n. 对立面
+
+preference n. 偏好
