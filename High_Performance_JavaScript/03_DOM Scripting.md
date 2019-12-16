@@ -50,3 +50,16 @@ pronounced 显著的
 opposite adj. 相反的，n. 对立面
 
 preference n. 偏好
+
+
+# 2019-12-16
+
+performance-critical 性能苛刻的
+
+readability 可读性
+
+maintenance n. 维护
+
+decide on (+ n.) v. 决定
+
+convention 约定，惯例，规范
