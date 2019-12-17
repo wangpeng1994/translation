@@ -63,3 +63,12 @@ maintenance n. 维护
 decide on (+ n.) v. 决定
 
 convention 约定，惯例，规范
+
+
+# 2019-12-17
+
+existing 存在的
+
+repeating 重复出现的
+
+underlying 底层的，在下面的，潜在的
