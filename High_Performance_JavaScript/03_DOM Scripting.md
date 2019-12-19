@@ -72,3 +72,20 @@ existing 存在的
 repeating 重复出现的
 
 underlying 底层的，在下面的，潜在的
+
+
+# 2019-12-18
+
+up-to-date 最新的
+
+inefficiency n. 低效率
+
+demonstrate v. 展示
+
+snippet 片段
+
+infinite loop 无限循环（死循环）
+
+iteration 迭代
+
+loop through v. 遍历
