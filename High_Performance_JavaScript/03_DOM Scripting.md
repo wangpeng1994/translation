@@ -89,3 +89,8 @@ infinite loop 无限循环（死循环）
 iteration 迭代
 
 loop through v. 遍历
+
+
+## 2019-12-31
+
+across prep. 遍及
