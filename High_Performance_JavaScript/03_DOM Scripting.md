@@ -103,3 +103,9 @@ keep in mind v. 记住
 beneficial 有益的
 
 Consult v 查阅
+
+
+# 2019-12-25
+in general 通常
+
+outside 外部，外部的，在...外面，在外面
