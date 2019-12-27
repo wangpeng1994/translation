@@ -106,6 +106,16 @@ Consult v 查阅
 
 
 # 2019-12-25
+
 in general 通常
 
 outside 外部，外部的，在...外面，在外面
+
+
+# 2019-12-26
+
+plot 图，绘制，标出
+
+avenue 大街，林荫大道，途径
+
+structure 结构，建造
